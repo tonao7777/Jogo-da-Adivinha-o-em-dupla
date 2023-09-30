@@ -28,7 +28,7 @@ function verificarAdivinhacao() {
 
 alert("Iremos Jogar O Jogo da Adivinhação Em Dupla")
 alert("Se Decidam quem será o 1 e o 2"); 
-alert("Cada Jogada Serve Reversar entre si")
+alert("Cada Jogada Serve Para Reversar entre Vocês")
 alert("Boa Sorte a vocês"); 
   
  
